@@ -109,7 +109,7 @@ const renderPage = setTimeout(() => {
 
 			<h2>Задание 1:</h2>
 
-			<a href="img/Pizza.svg" target="_blank">Ссылка на блок-схему</a>
+			<a href="img/pizza.svg" target="_blank">Ссылка на блок-схему</a>
 
 		</div>
 
@@ -241,7 +241,7 @@ const renderPage = setTimeout(() => {
 
 			<h2>Задание 3:</h2>
 
-			<a href="" target="_blank">Ссылка на блок-схему</a>
+			<a href="img/procedure.svg" target="_blank">Ссылка на блок-схему</a>
 
 		</div>
 
