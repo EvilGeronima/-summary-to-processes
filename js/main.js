@@ -86,6 +86,8 @@ const renderPage = setTimeout(() => {
 					<p>Далее</p>
 				</a>
 	
+				<a href="panda.html" class="button-panda"><p>Причины, по которым меня не нужно брать в процессы</p></a>
+
 			`
 	}
 
@@ -100,6 +102,8 @@ const renderPage = setTimeout(() => {
 				<a href="about.html" class="button-next">
 					<p>Далее</p>
 				</a>
+
+				<a href="panda.html" class="button-panda"><p>Причины, по которым меня не нужно брать в процессы</p></a>
 	
 			`
 		})
@@ -111,6 +115,7 @@ const renderPage = setTimeout(() => {
 					<p>Далее</p>
 				</a>
 	
+					<a href="panda.html" class="button-panda"><p>Причины, по которым меня не нужно брать в процессы</p></a>
 			`
 		})
 
@@ -121,6 +126,7 @@ const renderPage = setTimeout(() => {
 					<p>Далее</p>
 				</a>
 	
+					<a href="panda.html" class="button-panda"><p>Причины, по которым меня не нужно брать в процессы</p></a>
 			`
 		})
 
@@ -131,6 +137,7 @@ const renderPage = setTimeout(() => {
 					<p>Далее</p>
 				</a>
 	
+					<a href="panda.html" class="button-panda"><p>Причины, по которым меня не нужно брать в процессы</p></a>
 			`
 		})
 
@@ -141,6 +148,7 @@ const renderPage = setTimeout(() => {
 					<p>Далее</p>
 				</a>
 	
+					<a href="panda.html" class="button-panda"><p>Причины, по которым меня не нужно брать в процессы</p></a>
 			`
 		})
 

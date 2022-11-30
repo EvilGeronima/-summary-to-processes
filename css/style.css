@@ -160,6 +160,22 @@ input:checked {
   justify-content: center;
 }
 
+.button-panda {
+  margin-left: 20px;
+  width: 300px;
+  height: 70px;
+  background: #ecf0f7;
+  color: #4b82f0;
+  border-radius: 5px;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+.button-panda:visited {
+  color: #4b82f0;
+}
+
 .arrow-left {
   width: 40px;
   fill: #2e6deb;
@@ -289,4 +305,21 @@ input:checked {
 }
 .professionsl-add:visited {
   color: #2e6deb;
+}
+
+.panda {
+  padding-top: 60px;
+  width: 600px;
+  margin: 0 auto;
+  font-size: 17px;
+  padding-bottom: 60px;
+}
+.panda h2 {
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.panda-container {
+  width: 296px;
+  margin: 0 auto;
 }
