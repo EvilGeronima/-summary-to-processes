@@ -30,7 +30,53 @@ const renderPage = setTimeout(() => {
 
 		link.innerHTML =
 			`
-					
+									<div class="text-field">
+
+					<div class="volume-icon">
+						<svg class="volume" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+							<g data-name="Layer 2">
+								<g data-name="volume-up">
+									<path
+										d="M18.28 8.37a1 1 0 1 0-1.56 1.26 4 4 0 0 1 0 4.74A1 1 0 0 0 17.5 16a1 1 0 0 0 .78-.37 6 6 0 0 0 0-7.26z" />
+									<path
+										d="M19.64 5.23a1 1 0 1 0-1.28 1.54A6.8 6.8 0 0 1 21 12a6.8 6.8 0 0 1-2.64 5.23 1 1 0 0 0-.13 1.41A1 1 0 0 0 19 19a1 1 0 0 0 .64-.23A8.75 8.75 0 0 0 23 12a8.75 8.75 0 0 0-3.36-6.77zm-5.17-2.11a1 1 0 0 0-1 0L7 7.57H2a1 1 0 0 0-1 1v6.86a1 1 0 0 0 1 1h5l6.41 4.4A1.06 1.06 0 0 0 14 21a1 1 0 0 0 1-1V4a1 1 0 0 0-.53-.88z" />
+								</g>
+							</g>
+						</svg>
+					</div>
+					<div class="text-information">
+
+						<h2>Профессиональные навыки:</h2>
+
+						<p>Знание базового программного обеспечения для работы с документацией: MS Office, LibreOffice.
+						</p>
+						<p>
+							Знание языков программирования и инструментов разработки:
+						</p>
+						<ul>
+							<li>
+								<p>HTML, CSS (SASS/SCSS) ;</p>
+							</li>
+							<li>
+								<p>JavaScript (ES6+), TypeScript;</p>
+							</li>
+							<li>
+								<p>GitHub;</p>
+							</li>
+							<li>
+								<p>Figma, Avocode.
+								</p>
+							</li>
+							<li>
+								<p>Jira.</p>
+							</li>
+						</ul>
+						<p>Уверенное владение редакторами кода: VSCode, SublimeText, WebStorm.
+						</p>
+
+					</div>
+
+				</div>
 			`
 	}
 
@@ -57,7 +103,7 @@ const renderPage = setTimeout(() => {
 
 	renderTitle()
 	renderDescription()
-	renderSkillsList
+	renderSkillsList()
 
 	renderButton()
 }, 1500)

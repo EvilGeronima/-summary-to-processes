@@ -30,8 +30,8 @@ const renderPage = setTimeout(() => {
 
 		link.innerHTML =
 			`
-				<img class="image" src="/img/young.jpg" alt="">
-				<img class="image" src="/img/old.jpg" alt="">
+				<img class="image" src="img/young.jpg" alt="">
+				<img class="image" src="img/old.jpg" alt="">
 	
 			`
 	}
