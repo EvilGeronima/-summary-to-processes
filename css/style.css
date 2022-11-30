@@ -272,6 +272,9 @@ input:checked {
 .text-information li {
   padding-left: 60px;
 }
+.text-information a {
+  color: #2e6deb;
+}
 
 .long-read p::first-letter {
   padding-left: 50px;
@@ -283,4 +286,7 @@ input:checked {
 
 .professionsl-add {
   margin-left: 50px;
+}
+.professionsl-add:visited {
+  color: #2e6deb;
 }

@@ -211,6 +211,9 @@ input:checked {
 	li {
 		padding-left: 60px;
 	}
+	a {
+		color: #2e6deb;
+	}
 }
 
 .long-read {
@@ -224,4 +227,7 @@ input:checked {
 }
 .professionsl-add {
 	margin-left: 50px;
+	&:visited {
+		color: #2e6deb;
+	}
 }
